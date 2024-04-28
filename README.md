@@ -1,2 +1,2 @@
 # WhiteHatFileDump
-For classs
+For class
